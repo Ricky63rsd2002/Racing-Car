@@ -12,6 +12,7 @@ following this, the user will control the movement of the vehicle accordingly an
 
 
 
+
 ![Screenshot (196)](https://github.com/Ricky63rsd2002/Racing-Car/assets/110671339/d7296d99-675c-4cd9-92cb-c1516c04eac8)
 
 
@@ -19,11 +20,18 @@ following this, the user will control the movement of the vehicle accordingly an
 
 The main thing about any game development project is images. Under this project, to make it interactive and attractive I  use the following images:
 A background image
+
 Grass image
+
 White strip image
+
 Yellow strip image
+
 Car images
+
 Starting city image
+
+
 
 
 
